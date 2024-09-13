@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Exercicio05 {
-    public static void main(String[] args) {
+    public void exerc05() {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Programa para trasformar o horário em segundos");

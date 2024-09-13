@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Exercicio01 {
-    public static void main(String[] args) {
+    public void exerc01() {
         System.out.println("Programa para cadastrar canditatos a vagas da BOSCH");
         Scanner scanner = new Scanner(System.in);
 

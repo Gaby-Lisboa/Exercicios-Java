@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Exercicio06 {
-    public static void main(String[] args) {
+    public void exerc06() {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Programa para calcular a média ponderada");

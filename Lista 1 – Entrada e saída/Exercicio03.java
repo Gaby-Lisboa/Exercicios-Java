@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Exercicio03 {
-    public static void main(String[] args) {
+    public void exerc03() {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Programa que calcula o valor de venda de uma mercadoria\n");
